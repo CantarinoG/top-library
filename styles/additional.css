@@ -1,0 +1,9 @@
+.float {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+}
+
+input[type='checkbox'] {
+    cursor: pointer;
+}
